@@ -1,5 +1,5 @@
 # https://www.udemy.com/course/yapay-zeka-pekistirmeli-ogrenme-reinforcement-learning/ 
-# Udemy AR AiTech Pekiştirmeli Öğrenme Kursu Kodlama Örnekleri -1 Dinamik Programlama   / Politika İterayonu   /  Değer İterayonu
+# Udemy AR AiTech Pekiştirmeli Öğrenme Kursu Kodlama Örnekleri 2 Monte Carlo   / Prediction
 import numpy as np
 import gym
 env_frozen = gym.make("FrozenLake-v0")
